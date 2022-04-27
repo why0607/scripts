@@ -1,0 +1,85 @@
+okyyds仓库拉取：ql repo https://github.com/okyyds/yyds.git "jd_|jx_|gua_|jddj_|jdCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator" "master"
+
+小埋仓库拉取：ql repo https://github.com/okyyds/duck.git "jd_|jx_|gua_|jddj_|jdCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator" "master"
+
+Faker仓库拉取：ql repo https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|jdCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendNotify|ZooFaker_Necklace.js|JDJRValidator_|sign_graphics_validate|ql|JDSignValidator" "main"
+
+Aaron-lv仓库拉取：ql repo https://github.com/Aaron-lv/sync.git "jd_|jx_|getJDCookie" "activity|backUp|Coupon" "^jd[^_]|USER|utils|Notify" "jd_scripts"
+
+smiek仓库拉取：ql repo https://github.com/smiek2121/scripts.git "jd_|gua_" "" "ZooFaker_Necklace.js|JDJRValidator_Pure.js|sign_graphics_validate.js|cleancart_activity.js|jdCookie.js|sendNotify.js"
+
+ccwav仓库拉取：ql repo https://github.com/ccwav/QLScript2.git "jd_" "NoUsed" "ql|utils|USER_AGENTS|jdCookie|JS_USER_AGENTS"
+
+star仓库拉取：ql repo https://github.com/star261/jd.git "jd_|star_" "" "code" "main"
+
+JDHelloWorld仓库拉取：ql repo https://github.com/JDHelloWorld/jd_scripts.git "jd_|jx_" "backUp" "^jd[^_]|USER|^TS|utils"
+
+滴滴果园仓库拉取：ql repo https://github.com/passerby-b/didi_fruit.git "bucketWater|fruit" "getToken" "dd_cookie|sendNotify"
+
+wskey仓库拉取：ql repo https://github.com/Zy143L/wskey.git "wskey"
+
+美团神券：ql raw https://gitee.com/xiecoll/radish-script/raw/master/MT/lb_meituan.js
+
+饿了么：ql raw https://gitee.com/xiecoll/radish-script/raw/master/ELM/lb_elm.js
+
+爱奇艺：ql raw https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js
+
+dv西瓜视频 ：ql raw http://script.frp.aiuyo.com:8680/scripts/xgsp20220325act/xgsp.js
+
+dv书旗小说：ql raw http://script.frp.aiuyo.com:8680/scripts/sqxs.js
+
+dv番茄小说：ql raw http://script.frp.aiuyo.com:8680/scripts/fqxs.js
+
+dv番茄畅听：ql raw http://script.frp.aiuyo.com:8680/scripts/fqctapp.js
+
+dv九章头条：ql raw http://script.frp.aiuyo.com:8680/scripts/jztt.js
+
+dv睡觉宝：ql raw http://script.frp.aiuyo.com:8680/scripts/sjb.js
+
+dv文旅看点：ql raw http://script.frp.aiuyo.com:8680/scripts/wlkd.js
+
+dv快看点：ql raw http://script.frp.aiuyo.com:8680/scripts/kkd20220301/kkd.js
+          http://script.frp.aiuyo.com:8680/scripts/kkd_ck.js
+
+dv健康头条：ql raw http://script.frp.aiuyo.com:8680/scripts/jktt.js
+
+dv中青并发：ql raw http://script.frp.aiuyo.com:8680/scripts/zqkd_sync.js
+
+dv今日头条：ql raw http://script.frp.aiuyo.com:8680/scripts/jrtt_sync.js
+
+外置ck模块：ql raw http://script.frp.aiuyo.com:8680/scripts/david_cookies.js
+
+dv快手：ql raw http://script.frp.aiuyo.com:8680/scripts/ks.js
+
+dv快手极速版：ql raw http://script.frp.aiuyo.com:8680/scripts/ksjsb.js
+
+dv抖音火山版：ql raw http://script.frp.aiuyo.com:8680/scripts/dyjsb20220326zhuyn/dyhsb.js
+              http://script.frp.aiuyo.com:8680/scripts/dyhsb_ck.js
+
+dv抖音极速版：ql raw http://script.frp.aiuyo.com:8680/scripts/dyjsb.js
+
+dv签到：ql raw http://script.frp.aiuyo.com:8680/scripts/qd.js
+
+dv剪映：ql raw http://script.frp.aiuyo.com:8680/scripts/jy20220331cdvde/jy.js
+
+dv书路阅读：ql raw http://script.frp.aiuyo.com:8680/scripts/slyd.js
+
+leaf快手：ql raw https://raw.githubusercontents.com/leafxcy/JavaScript/main/ks.js
+
+leaf快手极速版：ql raw https://raw.githubusercontents.com/leafxcy/JavaScript/main/ksjsb.js
+
+leaf淘小说：ql raw https://raw.githubusercontent.com/leafxcy/JavaScript/main/txs.js
+
+leaf腾讯自选股：ql raw https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstockV2.js
+
+鑫广：ql raw https://gitee.com/gossh520/script/raw/master/xgapp.js
+
+返利购：ql raw https://raw.githubusercontent.com/YaphetS0903/JStest/main/flg.js
+
+返利好省：ql raw https://raw.githubusercontent.com/YaphetS0903/JStest/main/flhs.js
+
+闪电世界：ql raw https://gitee.com/soy-tool/app-script/raw/master/app_sdsj.js
+          ql raw https://gitee.com/soy-tool/app-script/raw/master/dwsj_variable_data.js
+
+
+
