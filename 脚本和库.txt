@@ -41,15 +41,14 @@ dv文旅看点：ql raw http://script.frp.aiuyo.com:8680/scripts/wlkd.js
 dv快看点：ql raw http://script.frp.aiuyo.com:8680/scripts/kkd20220301/kkd.js
           http://script.frp.aiuyo.com:8680/scripts/kkd_ck.js
 
-dv健康头条：ql raw http://script.frp.aiuyo.com:8680/scripts/jktt.js
-
 dv中青并发：ql raw http://script.frp.aiuyo.com:8680/scripts/zqkd_sync.js
 
 dv今日头条：ql raw http://script.frp.aiuyo.com:8680/scripts/jrtt_sync.js
 
 外置ck模块：ql raw http://script.frp.aiuyo.com:8680/scripts/david_cookies.js
 
-dv快手：ql raw http://script.frp.aiuyo.com:8680/scripts/ks.js
+dv快手：ql raw http://script.frp.aiuyo.com:8680/scripts/ksdsp20220504vcto/ks.js
+              http://script.frp.aiuyo.com:8680/scripts/ks_ck.js
 
 dv快手极速版：ql raw http://script.frp.aiuyo.com:8680/scripts/ksjsb.js
 
@@ -68,11 +67,15 @@ leaf快手：ql raw https://raw.githubusercontents.com/leafxcy/JavaScript/main/ks.j
 
 leaf快手极速版：ql raw https://raw.githubusercontents.com/leafxcy/JavaScript/main/ksjsb.js
 
-leaf淘小说：ql raw https://raw.githubusercontent.com/leafxcy/JavaScript/main/txs.js
+leaf淘小说：ql raw https://raw.githubusercontent.com/leafTheFish/DeathNote/main/txs.js
 
-leaf腾讯自选股：ql raw https://raw.githubusercontent.com/leafxcy/JavaScript/main/txstockV2.js
+leaf58同城：ql raw https://raw.githubusercontent.com/leafTheFish/DeathNote/main/58tc.js
 
-鑫广：ql raw https://gitee.com/gossh520/script/raw/master/xgapp.js
+leaf腾讯自选股：ql raw https://raw.githubusercontent.com/leafTheFish/DeathNote/main/txstockV2.js
+
+leaf美团：ql raw https://raw.githubusercontent.com/leafTheFish/DeathNote/main/meituan.js
+
+leaf科技玩家签到：ql raw https://raw.githubusercontent.com/leafTheFish/DeathNote/main/kjwj.js
 
 返利购：ql raw https://raw.githubusercontent.com/YaphetS0903/JStest/main/flg.js
 
